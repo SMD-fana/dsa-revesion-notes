@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SMD-fana/dsa-revesion-notes/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/SMD-fana/dsa-revesion-notes/tree/master/0205-isomorphic-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SMD-fana/dsa-revesion-notes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SMD-fana/dsa-revesion-notes/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SMD-fana/dsa-revesion-notes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
